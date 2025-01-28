@@ -12,7 +12,7 @@ This project includes **Exploratory Data Analysis (EDA)**, **business insights**
 ## **Tasks Covered**  
 ### **Task 1: Exploratory Data Analysis (EDA)**
 
-### **Task 2: Business Insights**
+### **Task 2: Lookalike Model**
 
 ### **Task 3: Clustering Analysis**  
 
